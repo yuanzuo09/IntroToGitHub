@@ -20,3 +20,4 @@ Unordered list with hypthens instead of numbers!
 Type emoji with colons 👍, \: thumbsup\:  
 ~~Strikethrough~~ with \~\~TEXT\~\~  
 Use \` to include code snippets: `cout << "Hello world!" << endl;`  
+Sub~script~ with TEXT\~subscript\~
