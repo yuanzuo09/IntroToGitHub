@@ -19,3 +19,4 @@ Unordered list with hypthens instead of numbers!
   
 Type emoji with colons 👍, \: thumbsup\:  
 ~~Strikethrough~~ with \~\~TEXT\~\~  
+==highlight== with \=\=highlight\=\=  
