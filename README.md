@@ -11,8 +11,8 @@ Order items with \1\. First item, \2\. Second item, \3\. Third item.
 1. First item
 2. Second item
 3. Third item
-Unordered list with hypthens instead of numbers!  
+Unordered list with hypthens instead of numbers!
 - First item
 - Second item
-- Third item 
+- Third item  
 Type emoji with colons 👍, \:thumbsup\:  
