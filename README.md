@@ -7,3 +7,11 @@ This week, I will be changing this line of the readme file on a separate branch 
 # Markdown Syntax Cheatsheet
 **BOLD TEXT** with \*\*TEXT\*\*  
 *Italicize Text* with \*Text\*
+Order items with \1\. First item, \2\. Second item, \3\. Third item.
+1. First item
+2. Second item
+3. Third item
+Unordered list with hypthens instead of numbers!
+Write code in single quotes
+'cout << "hello world!" << endl;'
+Type emoji with colons 👍, \:thumbsup\:
