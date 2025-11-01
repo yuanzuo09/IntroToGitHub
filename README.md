@@ -21,7 +21,7 @@ Type emoji with colons 👍, \: thumbsup\:
 ~~Strikethrough~~ with \~\~TEXT\~\~  
 Use \` to include code snippets: `cout << "Hello world!" << endl;`  
 Table with \| to separate columns  
-| Syntax | Description |
+| Column1 | Column2 |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| item1 | item3 |
+| item2 | item4 |
