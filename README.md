@@ -16,4 +16,4 @@ Unordered list with hypthens instead of numbers!
 - Second item
 - Third item
   
-Type emoji with colons 👍, \:thumbsup\:  
+Type emoji with colons 👍, \: thumbsup\:  
