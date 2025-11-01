@@ -18,3 +18,4 @@ Unordered list with hypthens instead of numbers!
 - Third item
   
 Type emoji with colons 👍, \: thumbsup\:  
+~~Strikethrough~~ with \~\~TEXT\~\~  
